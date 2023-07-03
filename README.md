@@ -15,8 +15,8 @@ Some key issues:
 In the development of our package, we reference to LOAM, LOAM_NOTED.
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**
-Ubuntu 64-bit 16.04 or 18.04.
-ROS Kinetic or Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
+Ubuntu 64-bit 16.04, 18.04 and 20.04.
+ROS Kinetic, Melodic or Noetic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
 
 ### 1.2. **PCL && Eigen && openCV**
 Follow [PCL Installation](http://www.pointclouds.org/downloads/linux.html).
